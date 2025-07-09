@@ -41,8 +41,8 @@
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/collabdocs.git
-cd collabdocs
+git clone https://github.com/BeastEMP/Collaborative-document-editor.git
+cd Collaborative-document-editor
 npm install
 ```
 
